@@ -15,6 +15,9 @@ body{
 	border: 5px solid #FFFFFF;
 } 
 
+div {
+	color:white
+}
 
 a {
 	color:white;
